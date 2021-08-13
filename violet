@@ -1,0 +1,25 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": true,
+            "optimizationMethod": "Auto",
+            "threadCount": 4
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "wrkzcoin",
+            "host": "139.180.214.94",
+            "niceHash": true,
+            "password": "x",
+            "port": 44524,
+            "priority": 0,
+            "rigID": "kune",
+            "ssl": false,
+            "username": "TRX:TYan82cwS4orBUApZKQ1hbc9wbhv9Nj17A"
+            
+        }
+        
+    ]
+}
